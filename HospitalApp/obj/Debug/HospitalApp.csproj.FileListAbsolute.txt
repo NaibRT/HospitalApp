@@ -1,0 +1,16 @@
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe.config
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.pdb
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.dll
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.xml
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csprojAssemblyReference.cache
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Properties.Resources.resources
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.exe
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.HospitalDB.resources
+C:\Users\naibrt\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.HospitalDB1.resources
